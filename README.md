@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 📌 Featured Minor Projects  
 - **[SQL Online Retail Store]** - A simple database management system for online stores.  
-- **[Low Power High-Speed Full Adder-Based Multiplier]** - Optimized digital circuit design for faster computation. 
+
 ## 📌 Featured Major Projects
 - **[Smart Agriculture & Automatic Irrigation System with ESP8266 and OLED Display]**-That automates irrigation by monitoring soil moisture and environmental conditions, optimizing water usage for efficient farming.
 
