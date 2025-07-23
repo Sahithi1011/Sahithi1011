@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - # 👋 Hi, I’m Sahithi1011  
 🎓 **Undergraduate Student | Aspiring Software Engineer**  
-🚀 **Currently Exploring:** Python, SQL, HTML  
+🚀 **Currently Exploring:** Python, SQL, HTML, Salesforce Admin & Developer ,Salesforce Apex Basics
 💡 **Interest Areas:** Software Development, Cloud Computing 
 🔗 **Connect with me:** [LinkedIn]www.linkedin.com/in/hema-sahithi-vasamsetti-bb292024b | [GitHub](https://github.com/Sahithi1011)  
 
